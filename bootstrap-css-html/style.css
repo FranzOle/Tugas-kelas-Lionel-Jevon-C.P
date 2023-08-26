@@ -20,7 +20,7 @@ body{
 	margin-top:1%;
 }
 .revit .navbar-brand{
-	color: #fff;
+	color: #ffffff;
 	font-size:1.8em;
 	font-weight: 700;
 	margin-left: 10%;
@@ -34,8 +34,9 @@ body{
 	padding-top:5%;
 	transform: translateY(-15%);
 }
+
 .revit .info h1{
-	font: size 20%;
+	font-size:3em;
 	font-weight: 700;
 	color: #fff;
 	letter-spacing: 2px;
